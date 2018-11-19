@@ -1,0 +1,4 @@
+target 'HereHelp' do
+  platform :ios, '10.0'
+  pod 'HEREMaps', '>= 3.9'
+end
